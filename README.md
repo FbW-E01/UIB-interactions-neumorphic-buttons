@@ -6,7 +6,7 @@ Let's try to recreate these **neumorphic** buttons:
 
 ![example hover](images/example-hover.png)
 
-- For the icons, use font awesome, or the images in the `images` folder.
+- For the icons, use font awesome, or the images in the `images` folder
 
 - Make sure to use the `transition` property for a smooth transition
 
